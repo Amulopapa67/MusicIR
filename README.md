@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/logo.webo" alt="MusicIR Logo" width="200"/>
+</div>
+
 # Music IR System
 
 This repository provides tools for building and running a music information retrieval system. Users can construct their own audio databases, generate corresponding caption and feature files, and run a retrieval demo. Note that due to copyright reasons, audio files are not publicly provided.
