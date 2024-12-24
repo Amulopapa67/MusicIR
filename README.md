@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.webo" alt="MusicIR Logo" width="200"/>
+  <img src="assets/logo.webp" alt="MusicIR Logo" width="200"/>
 </div>
 
 # Music IR System
